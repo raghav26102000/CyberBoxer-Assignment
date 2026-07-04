@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+claims.db
+logs/
+.env
+.vscode/
+.idea/
+*.egg-info/
+*.db-journal
